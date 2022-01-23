@@ -115,10 +115,5 @@ def run():
     inputMinMaxInv()
     
     displaySolution()
-
-    #print(getMinMaxInv())
-    #print(getRates())
-    #print(getRisk())
-
-
+    
     return 0
